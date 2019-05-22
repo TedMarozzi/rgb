@@ -32,6 +32,9 @@ for r in range(0, 1):
             rgb.setPixel(x, y, color_rgb(r, g, b))
         
 
+
+
+# Y
 rgb.save("rgb.ppm")
             
 win.getMouse()
